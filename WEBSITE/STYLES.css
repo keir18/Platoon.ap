@@ -1,0 +1,117 @@
+body {
+        background-image: url("PHOTOS/BACKGROUND1.png");
+        background-size: 100%;
+        color: #054E05;
+        font-family: 'Courier New', Courier, monospace;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        display: flex;
+        flex-direction: row;
+        height: 100px;
+    }
+
+    .logo {
+        position: relative;
+        margin: 0px 330px;
+    }
+
+  
+
+    section {
+        background: #333333;
+        height: 120px;
+        color: white;
+        box-shadow: 0px 8px 5px #111111;
+    }
+
+    .basket img {
+        position: relative;
+        display: inline-block;
+        height: 40px;
+    }
+
+    .basket {
+        position: relative;
+        left: 1250px;
+    }
+
+    
+    .parent {
+        display: flex;
+        justify-content: space-between;
+        margin: 0;
+        padding: 0;
+    }
+
+    .menu {
+        display: inline-block;
+        padding: 40px 120px;
+    }
+
+    a {
+        color: black;
+        font-size: 30px;
+        text-decoration: none;
+    }
+
+    article {
+        display: flex;
+        flex-direction: row;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: row;
+        background-color: #333333;
+        height: 100px;
+        margin: 0px;
+        box-shadow: 0px -8px 5px black;
+    }
+    
+    .insta img {
+        position: relative;
+        margin: 30px 640px;
+        width: 40px;
+    }
+
+      
+    .btn {
+        display: inline-block;
+        font-family: 'Courier New', Courier, monospace;
+        height: 40px;
+        margin: 10px 0px;
+        background-color: #333333;
+        border-radius: 8px;
+    }
+
+    .btn2 {
+        display: inline-block;
+        font-family: 'Courier New', Courier, monospace;
+        margin: 10px 0px;
+        background-color: #333333;
+        border-radius: 8px;
+    }
+
+    .details {
+        bottom: 400px;
+    }
+    
+
+    .colour {
+        height: 30px;
+        background-color: #444444;
+        border-radius: 6px;
+        border-color: #054E05;
+        border-width: 2px;
+    }
+
+    .colourLabel {
+        font-size: 16pt;
+    }
+
+    
+    
+  
